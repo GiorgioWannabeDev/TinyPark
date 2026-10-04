@@ -1,0 +1,9 @@
+﻿  CustomMenu.cpp
+C:\Users\Giorgio\source\repos\Atestat\Atestat\CustomMenu.cpp(26,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Giorgio\source\repos\Atestat\Atestat\CustomMenu.cpp(28,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  3 of 214 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Atestat.vcxproj -> C:\Users\Giorgio\source\repos\Atestat\x64\Release\Atestat.exe

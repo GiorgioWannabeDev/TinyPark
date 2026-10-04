@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\Giorgio\source\repos\Atestat\Atestat\Game.cpp(46,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Atestat.vcxproj -> C:\Users\Giorgio\source\repos\Atestat\x64\Debug\Atestat.exe
