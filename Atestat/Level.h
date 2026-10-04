@@ -39,7 +39,7 @@ public:
 
 	void resetClock();
 
-	const float getFloatTime();
+	float getFloatTime();
 
 	const sf::Sprite getEmptySpot();
 

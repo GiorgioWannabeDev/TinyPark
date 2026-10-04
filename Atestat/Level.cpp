@@ -161,7 +161,7 @@ void Level::resetClock()
 	this->clock.restart();
 }
 
-const float Level::getFloatTime()
+float Level::getFloatTime()
 {
 	return this->clock.getElapsedTime().asSeconds();
 }

@@ -61,7 +61,7 @@ Game::~Game()
 	delete this->menu;
 	delete this->car;
 }
-const bool Game::isRunning() const
+bool Game::isRunning() const
 {
 	return this->window->isOpen();
 }

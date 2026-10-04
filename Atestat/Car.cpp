@@ -46,7 +46,7 @@ const sf::Sprite Car::getSprite() const
 }
 
 
-const float Car::radian(float n) const
+float Car::radian(float n) const
 {
 	return n * 3.14 / 180.f;
 }

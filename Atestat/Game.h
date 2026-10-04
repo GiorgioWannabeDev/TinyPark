@@ -59,7 +59,7 @@ class Game
 		~Game();
 
 		//accessors
-		const bool isRunning() const;
+		bool isRunning() const;
 
 		//Functions
 		

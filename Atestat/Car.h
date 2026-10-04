@@ -1,6 +1,7 @@
 #pragma once
 
 #include "universal.h"
+#include <cmath>
 
 class Car
 {
@@ -34,7 +35,7 @@ public:
 	const sf::Sprite getSprite() const;
 
 	//radian converter
-	const float radian(float n) const;
+	float radian(float n) const;
 
 	Car();
 	~Car();
